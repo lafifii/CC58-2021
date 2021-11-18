@@ -1,4 +1,2 @@
-## CC58 Topics for Computer Science 2021
-Specialty course for Computer Science Undergrads of a theoretical-practical nature that allows the student to know the fundamentals of probabilistic graph models and probabilistic machine learning. It seeks to help the student learn to model solutions to real and complex tasks using probability theory, graph theory and programming.
-
-Teacher: Pedro Shiguihara
+## CC58 - Topicos para Ciencias de la Computación (2021)
+Curso de especialidad de la carrera de Ciencias de la Computación de carácter teórico-práctico que permite al estudiante conocer los fundamentos de los modelos de grafos probabilísticos y del aprendizaje automático probabilístico. Se busca aprender a modelar soluciones de tareas reales y complejas usando teoría de la probabilidad, teoría de grafos y programación.
